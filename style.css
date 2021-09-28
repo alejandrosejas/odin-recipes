@@ -1,0 +1,17 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  background-color: #222831;
+  color: #eeeeee;
+}
+
+a {
+  color: #00adb5;
+  font-size: larger;
+}
+
+img {
+  border-radius: 10%;
+}
